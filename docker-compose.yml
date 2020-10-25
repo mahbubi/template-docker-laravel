@@ -41,6 +41,6 @@ services:
    environment:
      PMA_HOST: database
      MYSQL_USERNAME: root
-     MYSQL_ROOT_PASSWORD: <Passwordphpmyadmin>
+     MYSQL_ROOT_PASSWORD: <Yourpassworddatabase>
    depends_on:
      - database
