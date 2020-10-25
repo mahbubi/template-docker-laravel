@@ -7,6 +7,7 @@ Template untuk deploy project laravel
 3. pada directory src perhatikan file .env sesuaikan password dan data base yang di butuhkan
 3. untuk menjalankan gunakan command
 ````
+````
 docker-compose up -d
 ````
 4. masuk pada container app
